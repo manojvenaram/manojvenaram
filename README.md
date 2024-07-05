@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojvenaram&label=Profile%20views&color=0e75b6&style=flat" alt="manojvenaram" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojvenaram" alt="manojvenaram" /></a> </p>
-
-- 🌱 I’m currently learning **Cloud Associate Engineer**
+- You do it or wait Time Always running
 
 - 📫 How to reach me **manojsasi20032005@gmail.com**
 
