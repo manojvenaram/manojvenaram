@@ -9,7 +9,10 @@
   <a href="https://github.com/manojvenaram">
     <img src="https://img.shields.io/badge/GitHub-manojvenaram-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/manoj-choudhary-v-513a3a236/" target="_blank">
+    <a href="https://manojvenaram.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-manojvenaram.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+<a href="https://www.linkedin.com/in/manoj-choudhary-v-513a3a236/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Manoj_Choudhary_V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/manoj_19v" target="_blank">
