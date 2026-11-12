@@ -90,8 +90,8 @@ I am an enthusiastic developer passionate about learning and building with **new
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=manojvenaram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manojvenaram&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=manojvenaram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=3" alt="GitHub Stats" height="175" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manojvenaram&layout=compact&theme=tokyonight&hide_border=true&v=3" alt="Top Languages" height="175" />
 
 <br>
 
